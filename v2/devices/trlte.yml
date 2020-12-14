@@ -2,7 +2,7 @@ name: "Samsung Galaxy Note 4 [910F]"
 codename: "trlte"
 formfactor: "phone"
 aliases:
-  - "N910F"
+  - "trltexx"
   - "N910G"
 doppelgangers: []
 user_actions:
