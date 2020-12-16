@@ -2,9 +2,9 @@ name: "Samsung Galaxy Note 4 [910P, 910V]"
 codename: "trltespr"
 formfactor: "phone"
 aliases:
-  - "N910R4"
-  - "N910P"
-  - "N910V"
+  - "trlteusc"
+  - "trltespr"
+  - "trltevzw"
 doppelgangers: []
 user_actions:
   recovery:
