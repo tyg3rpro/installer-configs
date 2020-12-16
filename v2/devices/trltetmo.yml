@@ -2,8 +2,8 @@ name: "Samsung Galaxy Note 4 [910T]"
 codename: "trltetmo"
 formfactor: "phone"
 aliases:
-  - "N910T"
-  - "N910W8"
+  - "trltetmo"
+  - "trltecan"
 doppelgangers: []
 user_actions:
   recovery:
